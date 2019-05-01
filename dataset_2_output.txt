@@ -1,3 +1,5 @@
+//this is a linearly inseparable problem, so the perceptron wont be able to solve this problem
+
 Epoch: 1
 W[0]:1
 W[1]:-0.5
