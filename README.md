@@ -1,2 +1,2 @@
 # perceptron
-Linear classification using perceptron algorithm
+Binary classification using perceptron algorithm
